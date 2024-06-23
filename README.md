@@ -47,5 +47,7 @@ https://drive.google.com/file/d/1JShDZe6aKsx26U55ISNmthgdn-MIvd59/view
 
 https://drive.google.com/file/d/1FikVRafCyuF1Dp31R3BeRHEuRsAqwKm6/view
 
+Note: You may additionally use [acegrade](https://acegrade.in/pyq) website, for getting PYQs or other resources. I neither own the website nor can comment on the material available (specially Notes).
+
 <!-- LINKS VARIABLE -->
 [w1-2_link]: https://drive.google.com/file/d/1aHRV7zkPWrbO8T8oVyy02HX7R-w1g3Wt/view?usp=sharing
