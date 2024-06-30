@@ -32,10 +32,18 @@ Resource Repository for TA sessions of Course Business Analytics (BSMS2002)
 
 ## TA-Session Recordings
 
- DATE | WEEK | REC. LINK | MATERIAL 
- --- | --- | --- | --- 
+ DATE | WEEK | REC. LINK | MATERIAL
+ --- | --- | --- | ---
  23/06/2024 | 1 & 2 | [Link][w1-2_link] | [BA TA session W1-2](./week1-2/BA%20TA%20session%20W1-2.pdf)
-  30/06/2024 | 3 | . | .
+ 30/06/2024 | 3 & 4 | [Link][w3-4_link] | [BA TA session W3-4](./week3-4/BA%20TA%20session%20W3-4.pdf)
+
+---
+
+## Extra Material
+
+- [Short Notes Week 3 - 8](https://drive.google.com/drive/u/2/folders/1MWNRlljs40ZpnrTg4UAu6uhpxh6ujB4w)
+- [LR-EXCEL_QUESTIONS_APPROACH](https://drive.google.com/file/d/1z3XnhJXTmV3X9h47s24WZbi2mTTGNYmJ/view)
+- [Jan-April_2024_TA_SESSIONS](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsf-FbjJ9l82xu8vpulIf1i_BxjnFBf8VHlhUsn_Puu6hQj7j5Tcik4sCweXvQKlyo0BEcBZFk5PAd/pubhtml)
 
 ---
 
@@ -51,3 +59,4 @@ Note: You may additionally use [acegrade](https://acegrade.in/pyq) website, for 
 
 <!-- LINKS VARIABLE -->
 [w1-2_link]: https://drive.google.com/file/d/1aHRV7zkPWrbO8T8oVyy02HX7R-w1g3Wt/view?usp=sharing
+[w3-4_link]: https://drive.google.com/file/d/1cbR14DfLnr5wS4JMHZStiHkH0XX5r4gc/view?usp=sharing
