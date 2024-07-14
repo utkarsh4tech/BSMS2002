@@ -8,6 +8,8 @@ Resource Repository for TA sessions of Course Business Analytics (BSMS2002)
 
 - [Grading Document](https://docs.google.com/document/u/2/d/e/2PACX-1vQ6IfNfkNMHgFuUbaVtTesUtqhCQ9kfcJW5dV1E_hkC3pqsYe4kEfP55oiIs4DqZgU-Fjssvn6DtjAr/pub#h.1pxezwc)
 
+- [Business Analytics YT channel](https://www.youtube.com/@businessanalatics)
+
 - Quiz 1: July 7th, 2024
 - Quiz 2: August 4th, 2024
 - End term: Sep 1st 2024
@@ -36,6 +38,8 @@ Resource Repository for TA sessions of Course Business Analytics (BSMS2002)
  --- | --- | --- | ---
  23/06/2024 | 1 & 2 | [Link][w1-2_link] | [BA TA session W1-2](./week1-2/BA%20TA%20session%20W1-2.pdf)
  30/06/2024 | 3 & 4 | [Link][w3-4_link] | [BA TA session W3-4](./week3-4/BA%20TA%20session%20W3-4.pdf)
+ 05/07/2024 | Quiz 1 revision | [Link][q1_rev] | .
+ 14/07/2024 | 5 | [Link][w5_link] | [BA TA session W5](./week%205/BA%20TA%20session%20W5.pdf)
 
 ---
 
@@ -60,3 +64,5 @@ Note: You may additionally use [acegrade](https://acegrade.in/pyq) website, for 
 <!-- LINKS VARIABLE -->
 [w1-2_link]: https://drive.google.com/file/d/1aHRV7zkPWrbO8T8oVyy02HX7R-w1g3Wt/view?usp=sharing
 [w3-4_link]: https://drive.google.com/file/d/1cbR14DfLnr5wS4JMHZStiHkH0XX5r4gc/view?usp=sharing
+[w5_link]: https://drive.google.com/file/d/17zEz5K8HV8zDhOvpzJFOldzivBLwbjnq/view?usp=sharing 
+[q1_rev]: https://drive.google.com/file/d/1L-QSVUx8WIcyDRu0j-dXWK2VoAsA3eMK/view?usp=sharing
