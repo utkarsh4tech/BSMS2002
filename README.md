@@ -41,6 +41,7 @@ Resource Repository for TA sessions of Course Business Analytics (BSMS2002)
  05/07/2024 | Quiz 1 revision | [Link][q1_rev] | .
  14/07/2024 | 5 | [Link][w5_link] | [BA TA session W5](./week%205/BA%20TA%20session%20W5.pdf)
  21/07/2024 | 6 | [Link][w6_link] | [BA TA session W6](./week%206/BA%20TA%20session%20w6%20.pdf)
+ 28/07/2024 | 7 | [Link][w7_link] | [BA TA session w7](./week7/BA%20TA%20session%20w7.pdf)
 
 ---
 
@@ -54,11 +55,7 @@ Resource Repository for TA sessions of Course Business Analytics (BSMS2002)
 
 ## PYQs
 
-https://drive.google.com/file/d/1EQCGotX_0LIE36pw1ffaLOmXxHf5uIUJ/view
-
-https://drive.google.com/file/d/1JShDZe6aKsx26U55ISNmthgdn-MIvd59/view
-
-https://drive.google.com/file/d/1FikVRafCyuF1Dp31R3BeRHEuRsAqwKm6/view
+[Past Year Papers](https://docs.google.com/spreadsheets/d/1-6VZAObPnfjfbYGK_FEJDILnHfBNLTxqtMxVYs8-_94/edit?usp=sharing)
 
 Note: You may additionally use [acegrade](https://acegrade.in/pyq) website, for getting PYQs or other resources. I neither own the website nor can comment on the material available (specially Notes).
 
@@ -68,3 +65,4 @@ Note: You may additionally use [acegrade](https://acegrade.in/pyq) website, for 
 [w5_link]: https://drive.google.com/file/d/17zEz5K8HV8zDhOvpzJFOldzivBLwbjnq/view?usp=sharing 
 [q1_rev]: https://drive.google.com/file/d/1L-QSVUx8WIcyDRu0j-dXWK2VoAsA3eMK/view?usp=sharing
 [w6_link]: https://drive.google.com/file/d/1MBirKNqgb9l7IgZFnPdn-scjTFlQm66Q/view?usp=sharing
+[w7_link]: https://drive.google.com/file/d/1mwZO7PRVGUWvpbe0iTuCT6XDJj8x-YvA/view?usp=sharing
