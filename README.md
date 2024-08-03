@@ -50,6 +50,7 @@ Resource Repository for TA sessions of Course Business Analytics (BSMS2002)
 - [Short Notes Week 3 - 8](https://drive.google.com/drive/u/2/folders/1MWNRlljs40ZpnrTg4UAu6uhpxh6ujB4w)
 - [LR-EXCEL_QUESTIONS_APPROACH](https://drive.google.com/file/d/1z3XnhJXTmV3X9h47s24WZbi2mTTGNYmJ/view)
 - [Jan-April_2024_TA_SESSIONS](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsf-FbjJ9l82xu8vpulIf1i_BxjnFBf8VHlhUsn_Puu6hQj7j5Tcik4sCweXvQKlyo0BEcBZFk5PAd/pubhtml)
+- Mentor_Mentee Sessions Jan 2024 (Hindi+English) [recording_1](https://drive.google.com/file/d/1EADliIYXmKn96W-KtDK2MeFPQ5RXVpkT/view?usp=sharing) [recording_2](https://drive.google.com/file/d/1Hfa_4ZvuE8d-ea9JNkoYbUpJA6_KEyKk/view?usp=sharing)
 
 ---
 
