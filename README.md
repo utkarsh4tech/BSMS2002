@@ -43,7 +43,7 @@ Resource Repository for TA sessions of Course Business Analytics (BSMS2002)
  21/07/2024 | 6 | [Link][w6_link] | [BA TA session W6](./week%206/BA%20TA%20session%20w6%20.pdf)
  28/07/2024 | 7 | [Link][w7_link] | [BA TA session w7](./week7/BA%20TA%20session%20w7.pdf)
  11/08/2024 | 8-9 | [Link][w8-9_link] | [BA TA session W8-9](./week%208-9/BA%20TA%20session%20w8-9.pdf)
-
+ 15/08/2024 | 10-11 | [Link][w10-11_link] | [BA TA session W10-11](./w10-11/WEEK10_and_WEEK11_TA_PROBLEMS%202.pdf) & [BA TA session W10-11_notes](./w10-11/WEEK_10_11.pdf)
 ---
 
 ## Extra Material
@@ -69,3 +69,4 @@ Note: You may additionally use [acegrade](https://acegrade.in/pyq) website, for 
 [w6_link]: https://drive.google.com/file/d/1MBirKNqgb9l7IgZFnPdn-scjTFlQm66Q/view?usp=sharing
 [w7_link]: https://drive.google.com/file/d/1mwZO7PRVGUWvpbe0iTuCT6XDJj8x-YvA/view?usp=sharing
 [w8-9_link]: https://drive.google.com/file/d/1Rbp3fOwhCKan-kaQfN5-Ub1z_JOJHJNL/view?usp=sharing
+[w10-11_link]: https://drive.google.com/file/d/1sye-sTM6EcTpNmdGyvRd1FX3P399xs2X/view?usp=sharing
