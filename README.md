@@ -44,6 +44,7 @@ Resource Repository for TA sessions of Course Business Analytics (BSMS2002)
  28/07/2024 | 7 | [Link][w7_link] | [BA TA session w7](./week7/BA%20TA%20session%20w7.pdf)
  11/08/2024 | 8-9 | [Link][w8-9_link] | [BA TA session W8-9](./week%208-9/BA%20TA%20session%20w8-9.pdf)
  15/08/2024 | 10-11 | [Link][w10-11_link] | [BA TA session W10-11](./w10-11/WEEK10_and_WEEK11_TA_PROBLEMS%202.pdf) & [BA TA session W10-11_notes](./w10-11/WEEK_10_11.pdf)
+ 25/08/2024 | End_Term Rev. | [End-term_Practice](https://drive.google.com/file/d/1ZrQhdUTp7ummoFqKRQ72nCkE0Dndytep/view?usp=sharing) | .
 ---
 
 ## Extra Material
